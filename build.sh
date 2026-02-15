@@ -4,4 +4,4 @@ date
 echo "Running Jenkins CI job"
 echo "Build Completed Successfully"
 echo "Triggered new build $(date)"
-echo "Modified email settings"
+
